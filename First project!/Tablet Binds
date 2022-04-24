@@ -1,0 +1,21 @@
+xsetwacom set "HUION Huion Tablet Pad pad" button 1 key PgUp
+xsetwacom set "HUION Huion Tablet Pad pad" button 2 key Ctrl Shift Z
+xsetwacom set "HUION Huion Tablet Pad pad" button 3 key E
+xsetwacom set "HUION Huion Tablet Pad pad" button 8 key -
+xsetwacom set "HUION Huion Tablet Pad pad" button 9 key =
+xsetwacom set "HUION Huion Tablet Pad pad" button 10 key Insert
+xsetwacom set "HUION Huion Tablet Pad pad" button 11 key Ctrl G
+xsetwacom set "HUION Huion Tablet Pad pad" button 12 key M
+
+
+
+
+xsetwacom set "HUION Huion Tablet Pad pad" button 1 key PgUp
+xsetwacom set "HUION Huion Tablet Pad pad" button 2 key Ctrl Shift Z
+xsetwacom set "HUION Huion Tablet Pad pad" button 3 key E
+xsetwacom set "HUION Huion Tablet Pad pad" button 8 key -
+xsetwacom set "HUION Huion Tablet Pad pad" button 9 key =
+xsetwacom set "HUION Huion Tablet Pad pad" button 10 key Insert
+xsetwacom set "HUION Huion Tablet Pad pad" button 11 key Ctrl G
+xsetwacom set "HUION Huion Tablet Pad pad" button 12 key M
+
